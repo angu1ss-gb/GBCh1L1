@@ -1,0 +1,12 @@
+C:\Users\angu1ss\RiderProjects\GBCh1L1\HelloUser\bin\Debug\HelloUser.exe
+C:\Users\angu1ss\RiderProjects\GBCh1L1\HelloUser\bin\Debug\HelloUser.pdb
+C:\Users\angu1ss\RiderProjects\GBCh1L1\HelloUser\obj\Debug\HelloUser.csprojAssemblyReference.cache
+C:\Users\angu1ss\RiderProjects\GBCh1L1\HelloUser\obj\Debug\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\angu1ss\RiderProjects\GBCh1L1\HelloUser\obj\Debug\HelloUser.exe
+C:\Users\angu1ss\RiderProjects\GBCh1L1\HelloUser\obj\Debug\HelloUser.pdb
+P:\personal\rider\GBCh1L1\HelloUser\bin\Debug\HelloUser.exe
+P:\personal\rider\GBCh1L1\HelloUser\bin\Debug\HelloUser.pdb
+P:\personal\rider\GBCh1L1\HelloUser\obj\Debug\HelloUser.csprojAssemblyReference.cache
+P:\personal\rider\GBCh1L1\HelloUser\obj\Debug\HelloUser.csproj.CoreCompileInputs.cache
+P:\personal\rider\GBCh1L1\HelloUser\obj\Debug\HelloUser.exe
+P:\personal\rider\GBCh1L1\HelloUser\obj\Debug\HelloUser.pdb

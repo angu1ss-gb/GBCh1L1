@@ -1,0 +1,6 @@
+P:\personal\rider\GBCh1L1\HelloUser\bin\Release\HelloUser.exe
+P:\personal\rider\GBCh1L1\HelloUser\bin\Release\HelloUser.pdb
+P:\personal\rider\GBCh1L1\HelloUser\obj\Release\HelloUser.csprojAssemblyReference.cache
+P:\personal\rider\GBCh1L1\HelloUser\obj\Release\HelloUser.csproj.CoreCompileInputs.cache
+P:\personal\rider\GBCh1L1\HelloUser\obj\Release\HelloUser.exe
+P:\personal\rider\GBCh1L1\HelloUser\obj\Release\HelloUser.pdb
